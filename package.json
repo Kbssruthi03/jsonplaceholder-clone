@@ -2,11 +2,11 @@
   "name": "jsonplaceholder-clone",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
+  "start": "node index.js",
+  "dev": "nodemon index.js",
+  "form": "node server.mjs"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
